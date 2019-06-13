@@ -10,5 +10,5 @@ At this point, this app is very simple but maybe I will improve it in the future
 
 I just added networking part into this app. I get data from MetaWeather API so when you input the right city name, it will output name, weather, and temperature in this city. Otherwise it will annouce that "Could not load weather information".
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
